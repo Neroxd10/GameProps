@@ -9,7 +9,7 @@
   "MODEL": "Pixel 9 Pro",
   "PRODUCT": "caiman",
   "INCREMENTAL": "12628839",
-  "RELEASE": "15",
+  "RELEASE": "Baklava",
   "SECURITY_PATCH": "2024-11-05",
   "DEVICE_INITIAL_SDK_INT": 32
 }
