@@ -1,15 +1,11 @@
 {
-  "TYPE": "user",
-  "TAGS": "release-keys",
   "ID": "BP22.250124.009",
   "BRAND": "google",
-  "DEVICE": "oriole",
-  "FINGERPRINT": "google/oriole_beta/oriole:Baklava/BP22.250124.009/13034193:user/release-keys",
+  "DEVICE": "tokay",
+  "FINGERPRINT": "google/tokay_beta/tokay:Baklava/BP22.250124.009/13034193:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 6",
-  "PRODUCT": "oriela_beta",
-  "INCREMENTAL": "13034193",
-  "RELEASE": "Baklava",
+  "MODEL": "Pixel 9",
+  "PRODUCT": "tokay_beta",
   "SECURITY_PATCH": "2025-02-05",
   "DEVICE_INITIAL_SDK_INT": 21
 }
