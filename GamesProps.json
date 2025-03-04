@@ -119,10 +119,10 @@
         "com.vng.pubgmobile"
     ],
     "PACKAGES_RM9P_DEVICE": {
-        "BRAND": "Samsung",
-        "DEVICE": "S23_Ultra",
-        "MANUFACTURER": "Samsung",
-        "MODEL": "SM-S9180"
+        "BRAND": "Lenovo",
+        "DEVICE": "TB320FC",
+        "MANUFACTURER": "Lenovo",
+        "MODEL": "TB320FC"
     },
     "PACKAGES_XP5": [
         "com.tencent.tmgp.kr.codm",
