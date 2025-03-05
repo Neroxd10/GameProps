@@ -78,13 +78,13 @@
         "MODEL": "LE2101"
     },
     "PACKAGES_F5": [
-        "com.mobile.legdnakfj"
+        "com.mobile.legends"
     ],
     "PACKAGES_F5_DEVICE": {
-        "BRAND": "POCO",
-        "DEVICE": "POCO F5",
-        "MANUFACTURER": "Xiaomi",
-        "MODEL": "23049PCD8G"
+        "BRAND": "Lenovo",
+        "DEVICE": "TB320FC",
+        "MANUFACTURER": "Lenovo",
+        "MODEL": "TB320FC"
     },
     "PACKAGES_ROG": [
         "com.dts.freefireth",
