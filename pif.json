@@ -1,11 +1,25 @@
 {
-  "ID": "BP22.250325.007",
-  "BRAND": "google",
-  "DEVICE": "cheetah",
-  "FINGERPRINT": "google/cheetah_beta/cheetah:16/BP22.250325.007/13352765:user/release-keys",
-  "MANUFACTURER": "Google",
-  "MODEL": "Pixel 7 Pro",
-  "PRODUCT": "cheetah_beta",
-  "SECURITY_PATCH": "2025-04-05",
-  "DEVICE_INITIAL_SDK_INT": 32
+
+"ID": "BP22.250325.007",
+
+"BRAND": "google",
+
+"DEVICE": "lynx",
+
+"FINGERPRINT": "googleV
+
+lynx_beta/lynx:16VBP22.250325.007V
+
+13352765:userVrelease-keys",
+
+"MANUFACTURER": "Google",
+
+"MODEL": "Pixel 7a",
+
+"PRODUCT": "lynx_beta",
+
+"SECURITY_PATCH": "2025-04-05",
+
+"DEVICE_INITIAL_SDK_INT": "32"
+
 }
