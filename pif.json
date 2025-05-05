@@ -6,11 +6,7 @@
 
 "DEVICE": "lynx",
 
-"FINGERPRINT": "googleV
-
-lynx_beta/lynx:16VBP22.250325.007V
-
-13352765:userVrelease-keys",
+"FINGERPRINT": "google\/lynx_beta/lynx:16VBP22.250325.007\/13352765:user\/release-keys",
 
 "MANUFACTURER": "Google",
 
@@ -21,5 +17,4 @@ lynx_beta/lynx:16VBP22.250325.007V
 "SECURITY_PATCH": "2025-04-05",
 
 "DEVICE_INITIAL_SDK_INT": "32"
-
 }
