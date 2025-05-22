@@ -1,0 +1,35 @@
+{
+    "PACKAGES_RM9P": [
+        "com.pubg.imobile",
+        "com.pubg.krmobile",
+        "com.rekoo.pubgm",
+        "com.tencent.ig",
+        "com.tencent.tmgp.pubgmhd",
+        "com.vng.pubgmobile",
+        "com.tencent.tmgp.kr.codm"
+    ],
+    "PACKAGES_RM9P_DEVICE": {
+        "BRAND": "Samsung",
+        "DEVICE": "S23_Ultra",
+        "MANUFACTURER": "Samsung",
+        "MODEL": "SM-S9180"
+    },
+    "PACKAGES_LENOVO": [
+        "com.garena.game.codm"
+    ],
+    "PACKAGES_LENOVO_DEVICE": {
+        "BRAND": "Lenovo",
+        "DEVICE": "TB-9707F",
+        "MANUFACTURER": "Lenovo",
+        "MODEL": "Lenovo TB-9707F"
+    },
+    "PACKAGES_ALPHA": [
+        "com.garena.game.df"
+    ],
+    "PACKAGES_ALPHA_DEVICE": {
+        "BRAND": "Lenovo",
+        "DEVICE": "TB321FU",
+        "MANUFACTURER": "LENOVO",
+        "MODEL": "TB321FU"
+    }
+}
