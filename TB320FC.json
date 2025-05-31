@@ -14,10 +14,18 @@
         "com.rekoo.pubgm",
         "com.tencent.ig",
         "com.tencent.tmgp.pubgmhd",
-        "com.vng.pubgmobile",
-        "com.garena.game.codm"
+        "com.vng.pubgmobile"
     ],
     "PACKAGES_RM9P_DEVICE": {
+        "BRAND": "nubia",
+        "DEVICE": "NX789J",
+        "MANUFACTURER": "nubia",
+        "MODEL": "NX789J"
+    },
+    "PACKAGES_LENOVO": [
+        "com.garena.game.codm"
+    ],
+    "PACKAGES_LENOVO_DEVICE": {
         "BRAND": "Lenovo",
         "DEVICE": "TB-9707F",
         "MANUFACTURER": "Lenovo",
