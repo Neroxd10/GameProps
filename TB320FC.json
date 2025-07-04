@@ -17,10 +17,10 @@
         "com.vng.pubgmobile"
     ],
     "PACKAGES_RM9P_DEVICE": {
-        "BRAND": "nubia",
-        "DEVICE": "NX789J",
-        "MANUFACTURER": "nubia",
-        "MODEL": "NX789J"
+        "BRAND": "Lenovo",
+        "DEVICE": "TB321FU",
+        "MANUFACTURER": "LENOVO",
+        "MODEL": "TB321FU"
     },
     "PACKAGES_LENOVO": [
         "com.garena.game.codm"
