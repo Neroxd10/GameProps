@@ -24,7 +24,8 @@
         "MODEL": "Lenovo TB-9707F"
     },
     "PACKAGES_ALPHA": [
-        "com.garena.game.df"
+        "com.garena.game.df",
+        "com.epicgames.fortnite"
     ],
     "PACKAGES_ALPHA_DEVICE": {
         "BRAND": "Lenovo",
