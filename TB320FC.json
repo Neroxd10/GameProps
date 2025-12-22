@@ -30,5 +30,14 @@
         "DEVICE": "TB-9707F",
         "MANUFACTURER": "Lenovo",
         "MODEL": "Lenovo TB-9707F"
+    },
+    "PACKAGES_ALPHAS": [
+        "com.mobile.legends"
+    ],
+    "PACKAGES_ALPHAS_DEVICE": {
+        "BRAND": "OnePlus",
+        "DEVICE": "OnePlus 15",
+        "MANUFACTURER": "OnePlus",
+        "MODEL": "PLK110"
     }
 }
