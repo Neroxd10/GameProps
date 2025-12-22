@@ -25,7 +25,8 @@
     },
     "PACKAGES_ALPHA": [
         "com.garena.game.df",
-        "com.epicgames.fortnite"
+        "com.epicgames.fortnite",
+        "com.mobile.legends"
     ],
     "PACKAGES_ALPHA_DEVICE": {
         "BRAND": "OnePlus",
