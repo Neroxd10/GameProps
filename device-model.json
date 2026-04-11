@@ -296,6 +296,13 @@
       "MODEL": "marlin",
       "FINGERPRINT": "google/marlin/marlin:10/QP1A.191005.007.A3/5972272:user/release-keys",
       "PRODUCT": "marlin"
+    },
+    {
+      "name": "OnePlus 16",
+      "BRAND": "OnePlus",
+      "DEVICE": "OnePlus Ace 6",
+      "MANUFACTURER": "OnePlus",
+      "MODEL": "PLQ110"
     }
   ]
 }
