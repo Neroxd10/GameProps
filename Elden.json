@@ -8,5 +8,14 @@
         "DEVICE": "OnePlus 15",
         "MANUFACTURER": "OnePlus",
         "MODEL": "PLK110"
+    },    
+"PACKAGES_ONEPLUS16": [
+        "com.tencent.tmgp.codev"
+    ],
+    "PACKAGES_ONEPLUS16_DEVICE": {
+        "BRAND": "OnePlus",
+        "DEVICE": "OnePlus Ace 6",
+        "MANUFACTURER": "OnePlus",
+        "MODEL": "PLQ110"
     }
 }
